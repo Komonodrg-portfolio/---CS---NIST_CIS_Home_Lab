@@ -28,7 +28,7 @@ The goal is to build a **practical, security-first environment** that mirrors en
 | Linux & Windows hosts  |  Endpoints for applying hardening guides  | 
 
 ---
-## 🛡️ NIST CSF + CIS Controls Mapping Lab Framework
+## 📊 NIST CSF + CIS Controls Mapping Lab Framework
 
 | NIST CSF Function | Related CIS Controls (v8) | Purpose | Home Lab Implementation |
 |-------------------|---------------------------|---------|--------------------------|
