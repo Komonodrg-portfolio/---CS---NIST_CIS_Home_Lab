@@ -3,7 +3,7 @@
 ---
 ---
 
-# 🛡️ Implementing NIST & CIS Cybersecurity Frameworks in a Home Lab
+# 🛡️ Implementing NIST & CIS Cybersecurity Frameworks in Home Lab
 
 ## 📌 Goals
 This project documents the implementation of **cybersecurity fundamentals** from the **NIST Cybersecurity Framework (CSF)** and the **CIS Critical Security Controls (CIS v8)** into a **home lab / home network**.  
@@ -38,11 +38,4 @@ The goal is to build a **practical, security-first environment** that mirrors en
 | **Respond** | CSC 17: Incident Response Management | Contain and mitigate incidents | - Wazuh active responses (block IPs, stop processes)<br>- Incident playbooks (manual + automated)<br>- pfSense alerts & firewall event logging |
 | **Recover** | CSC 16: Application Security<br>CSC 18: Penetration Testing | Restore services, validate controls, and improve | - Proxmox VM snapshots & backups<br>- Recovery testing of critical systems<br>- OpenVAS scans + remediation<br>- Kali Linux VM for controlled penetration testing |
 
-## 📂 Repository Structure
-```plaintext
-.
-├── docs/                   # Documentation, diagrams, references
-├── configs/                # Example config files (firewall rules, hardening scripts)
-├── screenshots/            # Setup, dashboards, and validation proof
-├── scripts/                # Automation (setup, patching, monitoring)
-└── README.md               # Project overview (this file)
+## 🔧 Setup Instructions
