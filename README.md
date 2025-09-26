@@ -3,7 +3,7 @@
 ---
 ---
 
-# 🛡️ Implementing NIST & CIS Cybersecurity Fundamentals in a Home Lab
+# 🛡️ Implementing NIST & CIS Cybersecurity Frameworks in a Home Lab
 
 ## 📌 Goals
 This project documents the implementation of **cybersecurity fundamentals** from the **NIST Cybersecurity Framework (CSF)** and the **CIS Critical Security Controls (CIS v8)** into a **home lab / home network**.  
